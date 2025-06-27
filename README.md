@@ -27,6 +27,14 @@ This workflow is designed as a seamless, integrated pipeline within ComfyUI, han
 
 ---
 
+## 📊 Workflow Overview
+
+![Workflow Capture](workflow-capture.png)
+
+*Visual representation of the complete ComfyUI workflow showing the automated pipeline from single image to trained LoRA model.*
+
+---
+
 ## 💡 Key Features & Workflow Highlights
 
 * **Single Image to LoRA**: The core concept – go from one image to a trained LoRA model.
